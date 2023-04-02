@@ -1,5 +1,5 @@
 # reactwebsite
-MY Social Media Handles- React App
+MY Social Media Handles- React App.
 This is a simple React app that displays my social media handles including LinkedIn, GitHub and Instagram.
 Here is the Github Deployed Link of the Project : https://vidhigarg83.github.io/reactwebsite/
 
